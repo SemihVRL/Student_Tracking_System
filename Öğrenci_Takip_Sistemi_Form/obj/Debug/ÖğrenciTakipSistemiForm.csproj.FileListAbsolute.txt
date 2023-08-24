@@ -1,0 +1,10 @@
+C:\Users\semih\source\repos\TurkcellC#FormProgramlama101\Turkcell_Temel_FormProject\bin\Debug\Turkcell_Temel_FormProject.exe.config
+C:\Users\semih\source\repos\TurkcellC#FormProgramlama101\Turkcell_Temel_FormProject\bin\Debug\Turkcell_Temel_FormProject.exe
+C:\Users\semih\source\repos\TurkcellC#FormProgramlama101\Turkcell_Temel_FormProject\bin\Debug\Turkcell_Temel_FormProject.pdb
+C:\Users\semih\source\repos\TurkcellC#FormProgramlama101\Turkcell_Temel_FormProject\obj\Debug\ÖğrenciTakipSistemiForm.csproj.AssemblyReference.cache
+C:\Users\semih\source\repos\TurkcellC#FormProgramlama101\Turkcell_Temel_FormProject\obj\Debug\Turkcell_Temel_FormProject.Form1.resources
+C:\Users\semih\source\repos\TurkcellC#FormProgramlama101\Turkcell_Temel_FormProject\obj\Debug\Turkcell_Temel_FormProject.Properties.Resources.resources
+C:\Users\semih\source\repos\TurkcellC#FormProgramlama101\Turkcell_Temel_FormProject\obj\Debug\ÖğrenciTakipSistemiForm.csproj.GenerateResource.cache
+C:\Users\semih\source\repos\TurkcellC#FormProgramlama101\Turkcell_Temel_FormProject\obj\Debug\ÖğrenciTakipSistemiForm.csproj.CoreCompileInputs.cache
+C:\Users\semih\source\repos\TurkcellC#FormProgramlama101\Turkcell_Temel_FormProject\obj\Debug\Turkcell_Temel_FormProject.exe
+C:\Users\semih\source\repos\TurkcellC#FormProgramlama101\Turkcell_Temel_FormProject\obj\Debug\Turkcell_Temel_FormProject.pdb
